@@ -1,6 +1,6 @@
 # InformationParser
 
-**TODO: Add description**
+This project is a simple information parser implemented in Elixir. It demonstrates how to extract required information from an Elixir Map cleanly with Error reporting, using the with Keyword 
 
 ## Installation
 
